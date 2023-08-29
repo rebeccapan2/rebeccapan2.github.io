@@ -24,7 +24,7 @@ Rebecca is skilled across several fields including engineering and wet lab. Rebe
 * Additive Manufacturing:
   * Fused Filament Fabrication (FFF)
   * Computer Aided Design (CAD): Autodesk Fusion 360, Solidworks
-*  Computational:
+* Computational:
   * MATLAB
   * Python
   * Microsoft Office & Power Applications
