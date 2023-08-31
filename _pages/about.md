@@ -38,4 +38,5 @@ Rebecca is skilled across several fields including engineering and wet lab. Rebe
 Publications:
 * [POSTER] Rebecca Pan, Regan Meredith and Anthony S. Serianni, Isolation of Sialyl Glycopeptide from Commercial Hen Egg Yolk Powder, the 15th Midwest Carbohydrate & Glycobiology Symposium, Notre Dame, IN, September 20-21, 2019. 
 
-<img src="assets/img/2024-Rebecca-Pan - Copy.JPG" alt="Rebecca Pan" style="width:200px;"/>
+Awards:
+* Dean's List
