@@ -3,7 +3,7 @@ title: "Syringe Pump"
 excerpt: "Syringe pump that can be programmed to dispense between 1 microliter to 10 milliliters."
 header:
   image: /assets/img/IMG-0451 (1).jpg
-  teaser: /assets/img/IMG-6224.jpg
+  teaser: /assets/img/IMG-0452.jpg
 gallery:
   - image_path: assets/img/IMG-0451 (1).jpg
   - image_path: assets/img/IMG-6224.jpg
