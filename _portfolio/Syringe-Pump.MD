@@ -2,12 +2,11 @@
 title: "Syringe Pump"
 excerpt: "Syringe pump that can be programmed to dispense between 1 microliter to 10 milliliters."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
+  image: /assets/img/IMG-0451 (1).jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
-  - image_path: assets/img/Slide-3.png
+  - image_path: assets/img/IMG-0451 (1).jpg
   - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
    
 ---
 
