@@ -35,7 +35,7 @@ Rebecca is skilled across several fields including engineering and wet lab. Rebe
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Publications:
+* [POSTER] Rebecca Pan, Regan Meredith and Anthony S. Serianni, Isolation of Sialyl Glycopeptide from Commercial Hen Egg Yolk Powder, the 15th Midwest Carbohydrate & Glycobiology Symposium, Notre Dame, IN, September 20-21, 2019. 
 
-![Image of Rebecca]("assets/img/2024-Rebecca-Pan - Copy.JPG")
 <img src="assets/img/2024-Rebecca-Pan - Copy.JPG" alt="Rebecca Pan" style="width:200px;"/>
