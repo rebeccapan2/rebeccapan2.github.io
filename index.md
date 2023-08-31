@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Rebecca Pan is a senior at Vanderbilt University majoring in biomedical engineering with minors in chemistry and digital fabrication. She is planning to attend medical school post-graduation and is interested in projects that combine engineering and medicine. "
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/IMG-2522.jpg
     alt: "Seed Soaker"
     title: "Automated Seed Soaker"
     excerpt: "Seed soaker that drains after pre-set time"
