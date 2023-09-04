@@ -41,7 +41,7 @@ gallery:
 | End Support for syringe barrel flange  | 1  |
 | End support for the Luer tip of the syringe  | 1  |
 | Carriage  | 1  |
-| Motor mount  | 2  |
+| Motor mount  | 1  |
 | Electrical enclosure box  | 1  |
 | Electrical enclosure lid  | 1  |
 | Cover for LCD display hole  | 1  |
