@@ -16,6 +16,10 @@ gallery:
 * **Programmable Flow Rate** This syringe pump can be programmed to a specific flow rate as entered into the Arduino code. Both integer and decimal flow rates work. 
 * **Compatible with Different Syringe Sizes** This pump was tested with a 20 mL and 5 mL syringe and can fit syringes of different sizes. 
 
+# How to Operate
+First, the user must specify a desired volumetric flow rate in mL/min and correct specifications on the loaded syringe in the Arduino program. The program calculates the set speed in steps per second from the volumetric flow rate. Initially, when connected to a power source, the pump begins operation in a paused state. When the user presses the button, this causes the motor to start turning and pushing the syringe plunger to dispense liquid at the given flow rate. At any point during operation, the user can press the button once more to pause/unpause. When the syringe is out of liquid, the pump stops and the status LED turns red. In order to reset the pump for another syringe, the user must manually twist the lead screw until the carriage returns to the desired position.
+
+
 # Purchased Parts
 
 | Off the Shelf Parts  | Quantity  |
