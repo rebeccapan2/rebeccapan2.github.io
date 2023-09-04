@@ -20,6 +20,6 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/g/projects/20220916557357901/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uLUZENWVDQ3dTSTJrQWs1NEF3SVdvQQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOkh4dzVlUUxTU0pXLVJfR3ZNeXZGZXc/viewer" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Arduino Code
-See the [Arduino Code here](https://github.com/rebeccapan2/rebeccapan2.github.io/sketch_apr13a.ino)
+See the [Arduino Code here](/sketch_apr13a.ino)
 
 {% include gallery caption="Syringe Pump Gallery" %}
