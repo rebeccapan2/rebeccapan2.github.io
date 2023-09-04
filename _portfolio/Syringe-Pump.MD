@@ -51,7 +51,9 @@ First, the user must specify a desired volumetric flow rate in mL/min and correc
 | Cover for LCD display hole  | 1  |
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/g/projects/20220916557357901/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uLUZENWVDQ3dTSTJrQWs1NEF3SVdvQQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOkh4dzVlUUxTU0pXLVJfR3ZNeXZGZXc/viewer" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eeb4b52feedf89839?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
 
 # Arduino Code
 See the [Arduino Code here](/sketch_apr13a.ino)
