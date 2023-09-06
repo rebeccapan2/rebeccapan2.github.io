@@ -56,6 +56,6 @@ First, the user must specify a desired volumetric flow rate in mL/min and correc
 
 
 # Arduino Code
-See the [Arduino Code here](/sketch_apr13a.ino)
+See the [Arduino Code here](https://github.com/rebeccapan2/rebeccapan2.github.io/blob/main/sketch_apr13a.ino)
 
 {% include gallery caption="Syringe Pump Gallery" %}
