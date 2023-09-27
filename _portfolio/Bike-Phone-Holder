@@ -1,3 +1,5 @@
+*italics*
+
 ---
 title: "Bike Phone Holder"
 excerpt: "Bike attachment that can hold a phone and attaches to 23-25 mm handlebars."
@@ -7,6 +9,7 @@ header:
 gallery:
   - image_path: assets/img/IMG-1020.jpg
   - image_path: assets/img/IMG-1281.jpg
+
 ---
 
 ~~test~~
