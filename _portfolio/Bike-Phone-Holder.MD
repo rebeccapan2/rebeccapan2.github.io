@@ -12,13 +12,14 @@ gallery:
 
 # Features
 
-* **Durable** Printed with PLA, which makes it durable and weather-resistant for up to a year.
+* **Durable** Printed with PLA, which was chosen for its durability and is weather-resistant for up to a year.
 * **Different phone orientations** You are able to place your phone in the holder vertically or horizontally.
 * **Removable** Clamps onto bike handlebars using screws, so it is removable and can be changed to different handlebars. 
 
 # Assembly Instructions
 In order to assemble the part that attaches to the handlebars, place each side over the handlebars and line up the hole so that you can screw all four holes in. Screw the handlebar parts together as tightly as possible until it securely attached. The use of a hex key may be necessary/helpful. 
-I order to attach a phone, place phone in the desired orientation then use the corresponding screw to tighten the grip on the phone. 
+
+In order to attach a phone, place the phone in the desired orientation then use the corresponding screw to tighten the grip on the phone. 
 
 # Purchased Parts 
 
@@ -36,6 +37,12 @@ I order to attach a phone, place phone in the desired orientation then use the c
 | 16M Screw  | 1  | 
 
 # CAD Model
+The CAD Model was made using top-down modeling in which each part is a separate component. This method was utilized in order to make it easier to edit individual parts and have them update in the assembly without having to move between multiple files. Additionally, 
+Writeup including (>500 words):
+▪ A description of top-down modeling and how it was leveraged in this
+assignment.
+▪ Rationale behind your design
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e382be1ad815d3c5d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
