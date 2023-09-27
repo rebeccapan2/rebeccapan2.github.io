@@ -9,21 +9,16 @@ gallery:
   - image_path: assets/img/IMG-1281.jpg
 
 ---
-#Pruchased pArts 
-
-**Features**
-
-~~test~~
-*italics*
-# Title
-## Subtitle
-### Another deeper title
 
 # Features
 
 * **Durable** Printed with PLA, which makes it durable and weather-resistant for up to a year.
 * **Different phone orientations** You are able to place your phone in the holder vertically or horizontally.
 * **Removable** Clamps onto bike handlebars using screws, so it is removable and can be changed to different handlebars. 
+
+# Assembly Instructions
+In order to assemble the part that attaches to the handlebars, place each side over the handlebars and line up the hole so that you can screw all four holes in. Screw the handlebar parts together as tightly as possible until it securely attached. The use of a hex key may be necessary/helpful. 
+I order to attach a phone, place phone in the desired orientation then use the corresponding screw to tighten the grip on the phone. 
 
 # Purchased Parts 
 
