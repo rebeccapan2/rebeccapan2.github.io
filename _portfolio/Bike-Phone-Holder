@@ -9,14 +9,13 @@ gallery:
   - image_path: assets/img/IMG-1281.jpg
 
 ---
-
 #Features
 
 ~~test~~
-
 *italics*
-
-*Astric
+# Title
+## Subtitle
+### Another deeper title
 
 # Features
 
