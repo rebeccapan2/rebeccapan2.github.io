@@ -2,11 +2,11 @@
 title: "Bike Phone Holder"
 excerpt: "Bike attachment that can hold a phone and attaches to 23-25 mm handlebars."
 header:
-  image: /assets/img/IMG-0451 (1).jpg
-  teaser: /assets/img/IMG-0452.jpg
+  image: /assets/img/IMG-1020.jpg
+  teaser: /assets/img/IMG-1281.jpg
 gallery:
-  - image_path: assets/img/IMG-0451 (1).jpg
-  - image_path: assets/img/IMG-6224.jpg
+  - image_path: assets/img/IMG-1020.jpg
+  - image_path: assets/img/IMG-1281.jpg
    
 ---
 
@@ -36,7 +36,4 @@ gallery:
 
 
 
-# Arduino Code
-See the [Arduino Code here](https://github.com/rebeccapan2/rebeccapan2.github.io/blob/main/sketch_apr13a.ino)
-
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery caption="Bike Phone Holder Gallery" %}
