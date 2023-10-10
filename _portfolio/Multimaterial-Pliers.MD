@@ -27,17 +27,26 @@ o Print settings
 o Picture gallery of iterations and pliers.
 o .GIF of pliers working 
 
+# Design Inspiration
+Print-in-place design allows the user to create designs that incorporate multiple different materials into a design and, assuming compatible materials, fuses them together. This method eliminates manual assembly post printing. 
+
+Print-in-place models are functional
+multiple-component designs, that work
+immediately after removal from the print bed. No
+post-processing or assembly is required. These
+can be created through single material extrusion by
+carefully designing models and orienting the print
+to allow for clearance between printed joints where
+motion or rotation is needed. However, even with
+optimized print settings, these models can be
+plagued by crunchy movement due to the irregularities of plastic extrusion. Another method to
+obtain useful motion is to include a flexible element in the model, whether that is a thin piece of a
+rigid plastic or a second elastomeric material.
+
 # Assembly Instructions
 In order to assemble the part that attaches to the handlebars, place each curved side over the handlebars and line up the hole so that you can screw all four holes in. Screw the handlebar parts together as tightly as possible until it is securely attached and does not move when shaken. The use of a hex key may be necessary/helpful. 
 
 In order to attach a phone, place the phone in the desired orientation then use the corresponding screw to tighten the grip on the phone until the phone is locked in place and does not move when shaken. 
-
-# Design Inspiration
-The design concept was two main parts: 1) a part that attaches to the handlebars of the bike and 2) a part that holds a cell phone. All parts were printed using a 0.6 mm nozzle with a minimum layer height of 0.15 mm and 0.2 mm base layer height. The 0.15 mm minimum layer height was important for threading the screw that was used to clamp down the phone, and the 0.2 mm base layer height allowed for better adhesion. 
-
-For the **handlebar attachment**, I was inspired to make it two parts that are screwed together and depending on the diameter of the handlebars can clamp together tighter or with more space. Heat set inserts allowed for the plastic to have finer threads. The clamping mechanism does not damage the bike handlebars. 
-
-For the **cell phone holder**, an adjustable screw design made sense as a simple way to clamp down on the phone vertically or horizontally. Additionally, it allows a phone to be attached to the holder without the use of external tools other than the screw. The pronged bottom has a cut-out for the charging port of the phone to be accessible when the phone is placed vertically. All other buttons and ports, as well as the camera, are accessible and not covered. This allows the user to use their phone and do things like change the volume of music, turn their phone on, and charge their phone with a portable charger without hindrance.
 
 
 # Parts to be built
