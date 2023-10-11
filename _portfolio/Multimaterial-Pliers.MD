@@ -51,9 +51,9 @@ The distance between the noses of the pliers is 6 mm, therefore it can only exte
 
 # CAD Model
 The CAD model was made using top-down modeling. The first inspiration was to utilize a flexible TPU middle piece in order to connect the handles and plier heads together. After the first CAD model, upon printing the flexible center, I realized that the print both failed and that it would be too small to shoulder the force from flexing the pliers and it lacked enough flexibility. 
-![Failed center image](https://upload.wikimedia.org/wikipedia/commons/6/6f/Einstein-formal_portrait-35.jpg)
+![Failed center image](/assets/img/IMG-1924.jpg)
 After this realization, I pursued two different avenues. The first design was to modify the same design with the flexible center but to make the centerpieces larger. I wanted to design it large enough that the TPU and PLA parts had large amounts of surface area to fuse together if printed on a multi-material printer or to stay together if printed separately and pressed. On the second iteration of the flexible center, it was far too rigid and did not bend. I adjusted the center part to have more open space especially in the center and upon printing, the final flexible center worked. Despite not being able to print on the dual extrusion printer, having separate components allows for interchangeable plier noses and handle sizes and designs in order to leverage the most useful and comfortable orientation. 
-![second center iteration image](https://upload.wikimedia.org/wikipedia/commons/6/6f/Einstein-formal_portrait-35.jpg)
+![second center iteration image](/assets/img/IMG-1923.jpg)
 ![Plier demonstation](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 The other design considered was a three-component design with a pin or screw where the plier parts intersect, and an angled, flexible insert to go between the handles and keep them separate unless flexed by an external force such as the user’s hand. 
 ![second iteration image](/assets/img/IMG-1939.jpg)
