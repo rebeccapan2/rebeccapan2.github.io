@@ -54,7 +54,7 @@ After this realization, I pursued two different avenues. The first design was to
 ![second center iteration image](https://upload.wikimedia.org/wikipedia/commons/6/6f/Einstein-formal_portrait-35.jpg)
 ![Plier demonstation](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 The other design considered was a three-component design with a pin or screw where the plier parts intersect, and an angled, flexible insert to go between the handles and keep them separate unless flexed by an external force such as the user’s hand. 
-![second center iteration image](https://upload.wikimedia.org/wikipedia/commons/6/6f/Einstein-formal_portrait-35.jpg)
+![second iteration image](/assets/img/IMG-1933.jpg)
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e382be1ad815d3c5d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
