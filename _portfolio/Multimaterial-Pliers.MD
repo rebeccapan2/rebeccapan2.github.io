@@ -42,12 +42,15 @@ Print-in-place parts have also made inroads in aerospace and automotive sectors.
 | Flexible Center Piece   | 1  | 
 
 # Additional Specifications and Settings
+## Printing Settings
+The TPU used could not exceed 220 degrees Celsius so the bed temperature was set at 210 degrees Celsius maximum. 
+## Design Specifications
+The distance between the noses of the pliers is 6 mm, therefore it can only extend up to 6 mm. Since it is a larger set of pliers, it is able to pick up larger items but requires significantly more force to operate. The hollow middle of the plier's legs allows for two handle sizes.
 
 # CAD Model
 The CAD model was made using top-down modeling. This means that each part was created as a separate component within a larger assembly. This method was utilized in order to make it easier to edit individual parts and have them update in the assembly without having to move between multiple files. Additionally, using top-down modeling to create components within one assembly allowed for the construction of parts in the presence of other parts. This was extremely useful because it allowed the user to make sure different dimensions lined up or that parts fit together in the same space. In the CAD model “As built” joints were used because each component was built relative to others. Using projections of different parts was useful for ensuring that parts lined up well. Furthermore, parametric modeling was used for the handlebar diameter which means that the CAD design can be easily adjusted to fit handlebars of varying diameters.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e382be1ad815d3c5d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 
 
 {% include gallery caption="Multimaterial Pliers Gallery" %}
