@@ -54,7 +54,7 @@ After this realization, I pursued two different avenues. The first design was to
 The other design considered was a three-component design with a pin or screw where the plier parts intersect, and an angled, flexible insert to go between the handles and keep them separate unless flexed by an external force such as the user’s hand. 
 ![second iteration image](/assets/img/IMG-1939.jpg)
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e382be1ad815d3c5d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 {% include gallery caption="Multimaterial Pliers Gallery" %}
