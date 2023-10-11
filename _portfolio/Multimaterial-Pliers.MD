@@ -40,7 +40,7 @@ Print-in-place parts have also made inroads in aerospace and automotive sectors.
 
 # Additional Specifications and Settings
 ## Printing Settings
-The TPU used could not exceed 220 degrees Celsius so the bed temperature was set at 210 degrees Celsius maximum. The print was done using a 0.6 mm nozzle and the Voron 3000. 
+The TPU used could not exceed 220 degrees Celsius so the bed temperature was set at 210 degrees Celsius maximum. The print was done using a 0.6 mm nozzle and the Voron 3D printer. 
 ## Design Specifications
 The distance between the noses of the pliers is 6 mm, therefore it can only extend up to 6 mm. Since it is a larger set of pliers, it is able to pick up larger items, and even heavier items, but requires significantly more force to close the jaws. The hollow middle of the plier's legs allows for two handle sizes.
 
