@@ -26,7 +26,13 @@ gallery:
 **Assembly Rendering**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-[images]
+## Images of Printed Part
+![Image of Powder Bed Fusion Hanger](/assets/img/IMG_3563.jpg)
+![Image of Powder Bed Fusion Hanger2](/assets/img/IMG_3562.jpg)
+
+*due to the lack of a pivot cup in the initial design, the hanger was unable to attach to the longboard correctly and the motor was stuck on another hanger*
+Assembly should follow the orientation of this commercial hanger:
+![Image of Powder Bed Fusion Hanger](/assets/img/IMG_4568.jpg)
 
 
 
