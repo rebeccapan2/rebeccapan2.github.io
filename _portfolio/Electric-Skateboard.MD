@@ -47,6 +47,7 @@ When utilized together, these synergize to offer unmatched advanced manufacturin
 For this project specifically, generative design was useful to create hanger solutions that avoided specific elements on the skateboard, while also preserving required parts such as the pivot cup and a part for the kingpin and bushings to go around. I created obstacle geometries specifically for the rod that connects the wheels, the wheels, the pulleys for the motor, the kingpin, the TPU bushings, and the pivot cup holder. We had to design a motor mount for one of the hangers as well, which extended from the hanger. This added torque to the hanger design and could not be too close to the bed or the ground, which would be especially difficult to account for if designing with artificial intelligence. The geometry of the hanger is also extremely irregular and printing it on a large scale on a more traditional filament printer would generate impractical amounts of support material.
 
 # Large Format Skateboard Deck Design
+When designing the deck, research led me to find that most longboards have a wheelbase of between 25” to 35”. Since I am average height for a woman and I am not an avid skateboarder, I decided to go with 30 inches as an intermediate number and a length with more stability than 25”. Since attacking trucks to the skateboard deck would cause shearing of the extruded material, there are pockets on either end of the skateboard based on the given dimensions for aluminum plates to attach. The height had to be a minimum of 14 inches since the counterbore had to be over 8 mm and the part that the plates rest on was 6 mm from the bottom. I went with the letters D and F to symbolize the completion of the digital fabrication minor! Additionally, I wanted a cutout design; however, I understood that the more cutouts, the less weight the board could withstand especially with the cutouts in the middle. The size of the large format 3D printer was also a constraint, as the length of the board could not exceed 44 inches. When using the large format 3D printer there couldn’t be overhangs less than 45 materials, and no support material could be used. Therefore, my design had completely vertical cutouts.
 
 When deciding the thickness of the board, there were two main considerations. The first consideration was to minimize material; the second was to support a 200 lbs rider. A weight of 200 lbs roughly translates to a 900 Newton force across the board, with constraints on either side where it attaches to the hanger and wheels. Originally, with the design I chose, I made the deck 20 mm thick. Using the simulation tool in Autodesk Fusion 360, this thickness resulted in a maximum deflection of 5.619 mm. With a maximum of 12 mm of deflection, this was well within the safety parameters and meant I could reduce the thickness of the board to reduce unnecessary material. 
 ![Image of 20mm deflection](/assets/img/20mmdeflection.png)
@@ -57,21 +58,16 @@ I iteratively reduced the deck to 18 mm, which resulted in 7.246 mm of deflectio
 Lastly, I reduced the deck thickness to 15 mm. This resulted in 11.539 mm of maximum deflection in the center of the board and was the thinnest I could make the board without crossing the 12 mm threshold. 
 ![Image of 15mm deflection](/assets/img/15mmdeflection.png)
 
-When designing the deck, research led me to find that most longboards have a wheelbase of between 25” to 35”. Since I am average height for a woman and I am not an avid skateboarder, I decided to go with 30 inches as an intermediate number and a length with more stability than 25”. Since attacking trucks to the skateboard deck would cause shearing of the extruded material, there are pockets on either end of the skateboard based on the given dimensions for aluminum plates to attach. The height had to be a minimum of 14 inches since the counterbore had to be over 8 mm and the part that the plates rest on was 6 mm from the bottom. I went with the letters D and F to symbolize the completion of the digital fabrication minor! Additionally, I wanted a cut-out design; however, I understood that the more cutouts, the less weight the board could withstand especially with the cutouts in the middle. 
-
 ![Image of Skateboard Assembly](/assets/img/IMG_5122.jpg)
 
+# Purchased Parts
 
-# Parts to be built
-
-| CAD Parts  | Quantity  | 
+| Purchased Parts  | Quantity  | 
 | ------------- | ------------- | 
-| Left Plier Handle  | 1  | 
-| Right Plier Handle | 1  | 
-| Left Plier Prong  | 1  | 
-| Right Plier Prong  | 1  | 
-| Flexible Center Piece   | 1  | 
-
+| Paris V2 Mounting Plate and Kingpin  | 1  | 
+| 6374 Brushless Motor | 1  | 
+| 90mmx52mm Wheels  | 1  | 
+| Wheel Pulley Set  | 1  | 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6cd102e0ccc412aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
