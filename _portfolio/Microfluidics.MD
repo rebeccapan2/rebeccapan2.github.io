@@ -22,7 +22,7 @@ The device was designed to have at least one 2D and one 3D feature. Based on the
 ![Image of Zigzag Channel](/assets/img/zigzag.png)
 (Lee et al. 2011)
 
-We also decided to incorporate a **picoliter-volume mixer design** with smaller channels running parallel and splitting the zig-zags. Researchers have shown that this configuration enables complete mixing within a significantly shorter distance than the distance required to fully mix two streams in a conventional straight channel. Wanting to keep the parallel channels as small as possible we were limited by the printing method’s resolution of 0.085 millimeters. Past research found positive results from a 27:5 ratio, therefore we preserved this ratio with the new channel sizes.
+We also decided to incorporate a **picoliter-volume mixer design** with smaller channels running parallel and splitting the zig-zags. Researchers have shown that this configuration enables complete mixing within a significantly shorter distance than the distance required to fully mix two streams in a conventional straight channel. Wanting to keep the parallel channels as small as possible we were limited by the printing method’s resolution of 0.085 millimeters. Past research found positive results from a 27:5 ratio of the intersecting zigzags to parallel channels; therefore, we preserved this ratio with the new channel sizes.
 ![Image of Picoliter-Volume Mixer](/assets/img/picolitermixer.png)
 (Lee et al. 2011)
 
