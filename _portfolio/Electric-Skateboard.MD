@@ -2,8 +2,8 @@
 title: "Electric Skateboard Assembly"
 excerpt: "Motor powered skateboard using generative design and large format 3D printing"
 header:
-  image: /assets/img/IMG-1933.jpg
-  teaser: /assets/img/IMG-1933.jpg
+  image: /assets/img/IMG_5122.jpg
+  teaser: /assets/img/IMG_522.jpg
 gallery:
   - image_path: assets/img/IMG-1922.jpg
   - image_path: assets/img/IMG-1923.jpg
@@ -28,6 +28,9 @@ gallery:
 
 [images]
 
+
+
+![Image of Skateboard Assembly](/assets/img/IMG_5122.jpg)
 
 # Print-in-Place Manufacturing Background
 Print-in-place design allows the user to incorporate multiple different materials into a single, cohesive design. Assuming the use of compatible materials, the multi-material printer fuses the parts together. This method eliminates manual assembly post-printing, making it particularly appealing for rapid prototyping, manufacturing, and even in challenging applications where conventional assembly would be impractical or impossible. Compatible materials would be ones that have similar surface energies since they are more likely to spread and adhere together well. For example, two materials that are both polar will have better adherence together when printed on a multi-material printer. For the pliers, 95A TPU and PLA were used, which work well together. TPU also works well with ABS for designs that require both flexible and rigid components. PLA and ABS have also been printed together commercially. 
