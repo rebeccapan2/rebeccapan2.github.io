@@ -5,8 +5,8 @@ header:
   image: /assets/img/IMG_4515.jpg
   teaser: /assets/img/IMG_4515.jpg
 gallery:
-  - image_path: assets/img/IMG_4514.jpg
   - image_path: assets/img/IMG-4516.jpg
+  - image_path: assets/img/IMG-4514.jpg
   - image_path: assets/img/IMG-5147.jpg
 
 ---
@@ -19,10 +19,13 @@ One common application of microfluidic devices is for thorough and rapid mixing 
 
 # Design Inspiration
 The device was designed to have at least one 2D and one 3D feature. Based on the literature, we wanted to integrate a **zigzag microchannel with a “Y” inlet junction** due to a high mixing index of 0.96. Researchers found that for low Reynolds number flows, the mixing efficiency increased to approximately 98% for the geometry ratio s/w = 4 as seen in the diagram below, then reduced slightly to below 90% when the geometry was further increased. Based on this finding, we created our channels with a s/w geometry of 4 where s=1.8 mm and w=0.45 mm. 
+![Image of Zigzag Channel](/assets/img/zigzag.png)
 
 We also decided to incorporate a **picoliter-volume mixer design** with smaller channels running parallel and splitting the zig-zags. Researchers have shown that this configuration enables complete mixing within a significantly shorter distance than the distance required to fully mix two streams in a conventional straight channel. Wanting to keep the parallel channels as small as possible we were limited by the printing method’s resolution of 0.085 millimeters. Past research found positive results from a 27:5 ratio, therefore we preserved this ratio with the new channel sizes.
+![Image of Picoliter-Volume Mixer](/assets/img/picolitermizer.png)
 
 A 3D feature was designed to induce a more chaotic mixing effect. We chose to implement an **inclined mixer** as it causes the fluid flow to sway from side to side, increasing turbulent flow.
+![Image of Inclined Mixer](/assets/img/wedgefeature.png)
 
 <ins>Vat Photopolymerization Use</ins>
 
