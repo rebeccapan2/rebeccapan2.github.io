@@ -16,19 +16,20 @@ Microfluidic devices are an arrangement of microchannels that small amounts of f
 
 One common application of microfluidic devices is for thorough and rapid mixing of samples on a microscale level. This is typically done in microfluidic devices by increasing the diffusion effects. Sample mixing can be done in either a passive method, which relies only on increased contact area and contact time to mix, or an active method which involves applying external forces such as magnetic fields, heat, or acoustic forces. Microfluidic mixers are integral for DNA and protein analysis ensuring that all of the necessary interactions occur. Additionally, they are useful in the formulation of pharmaceuticals for a homogenous mixture of all ingredients. 
 
+# Design Inspiration
+The device was designed to have at least one 2D and one 3D feature. Based on the literature, we wanted to integrate a **zigzag microchannel with a “Y” inlet junction** due to a high mixing index of 0.96. Researchers found that for low Reynolds number flows, the mixing efficiency increased to approximately 98% for the geometry ratio s/w = 4 as seen in the diagram below, then reduced slightly to below 90% when the geometry was further increased. Based on this finding, we created our channels with a s/w geometry of 4 where s=1.8 mm and w=0.45 mm. 
 
+We also decided to incorporate a **picoliter-volume mixer design** with smaller channels running parallel and splitting the zig-zags. Researchers have shown that this configuration enables complete mixing within a significantly shorter distance than the distance required to fully mix two streams in a conventional straight channel. Wanting to keep the parallel channels as small as possible we were limited by the printing method’s resolution of 0.085 millimeters. Past research found positive results from a 27:5 ratio, therefore we preserved this ratio with the new channel sizes.
+
+A 3D feature was designed to induce a more chaotic mixing effect. We chose to implement an **inclined mixer** as it causes the fluid flow to sway from side to side, increasing turbulent flow.
 
 # Assembly Instructions
-In order to assemble the part that attaches to the handlebars, place each curved side over the handlebars and line up the hole so that you can screw all four holes in. Screw the handlebar parts together as tightly as possible until it is securely attached and does not move when shaken. The use of a hex key may be necessary/helpful. 
+Insert section 
 
-In order to attach a phone, place the phone in the desired orientation then use the corresponding screw to tighten the grip on the phone until the phone is locked in place and does not move when shaken. 
+#Testing
 
-# Design Inspiration
-The design concept was two main parts: 1) a part that attaches to the handlebars of the bike and 2) a part that holds a cell phone. All parts were printed using a 0.6 mm nozzle with a minimum layer height of 0.15 mm and 0.2 mm base layer height. The 0.15 mm minimum layer height was important for threading the screw that was used to clamp down the phone, and the 0.2 mm base layer height allowed for better adhesion. 
+As seen in the video above, our microfluidic mixer did not work as expected. Anticipating a smaller amount of fluid, we designed our microchannels to be as small as possible, but they were too small to withstand the force of injecting the solution. Additionally, our 3D feature was not on the main channel so most fluid did not experience the desired turbulent effect. Tall and thin components are more likely to break during printing, so the aspect ratio we used was 3:1. With the smallest channel diameter in mind of 85 micrometers, this limited our channel height to 255 micrometers. Therefore our channels were even smaller in terms of volume and our 3D wedges were almost indistinguishable when printed. For future iterations, I would recommend scaling the channels up to be larger or using a smaller volumetric flow rate.
 
-For the **handlebar attachment**, I was inspired to make it two parts that are screwed together and depending on the diameter of the handlebars can clamp together tighter or with more space. Heat set inserts allowed for the plastic to have finer threads. The clamping mechanism does not damage the bike handlebars. 
-
-For the **cell phone holder**, an adjustable screw design made sense as a simple way to clamp down on the phone vertically or horizontally. Additionally, it allows a phone to be attached to the holder without the use of external tools other than the screw. The pronged bottom has a cut-out for the charging port of the phone to be accessible when the phone is placed vertically. All other buttons and ports, as well as the camera, are accessible and not covered. This allows the user to use their phone and do things like change the volume of music, turn their phone on, and charge their phone with a portable charger without hindrance.
 
 # Purchased Parts 
 
