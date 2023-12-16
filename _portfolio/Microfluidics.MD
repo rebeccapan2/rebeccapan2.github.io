@@ -36,7 +36,7 @@ We used VPP because of its high-resolution printing capabilities, which are need
  
 
 ## Testing
-[![Microfluidic Device Testing](/assets/img/IMG-1020.jpg)](https://youtube.com/shorts/Di2UXyNG6Aw)
+[![Microfluidic Device Testing](/assets/img/IMG-4514.jpg)](https://youtube.com/shorts/Di2UXyNG6Aw)
 As seen in the video above, our microfluidic mixer did not work as expected. Anticipating a smaller amount of fluid, we designed our microchannels to be as small as possible, but they were too small to withstand the force of injecting the solution. Additionally, our 3D feature was not on the main channel so most fluid did not experience the desired turbulent effect. Tall and thin components are more likely to break during printing, so the aspect ratio we used was 3:1. With the smallest channel diameter in mind of 85 micrometers, this limited our channel height to 255 micrometers. Therefore our channels were even smaller in terms of volume and our 3D wedges were almost indistinguishable when printed. For future iterations, I would recommend scaling the channels up to be larger or using a smaller volumetric flow rate.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eea03d13de859ed90?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
