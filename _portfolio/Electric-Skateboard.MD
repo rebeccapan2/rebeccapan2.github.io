@@ -57,6 +57,8 @@ I iteratively reduced the deck to 18 mm, which resulted in 7.246 mm of deflectio
 Lastly, I reduced the deck thickness to 15 mm. This resulted in 11.539 mm of maximum deflection in the center of the board and was the thinnest I could make the board without crossing the 12 mm threshold. 
 ![Image of 15mm deflection](/assets/img/15mmdeflection.png)
 
+When designing the deck, research led me to find that most longboards have a wheelbase of between 25” to 35”. Since I am average height for a woman and I am not an avid skateboarder, I decided to go with 30 inches as an intermediate number and a length with more stability than 25”. Since attacking trucks to the skateboard deck would cause shearing of the extruded material, there are pockets on either end of the skateboard based on the given dimensions for aluminum plates to attach. The height had to be a minimum of 14 inches since the counterbore had to be over 8 mm and the part that the plates rest on was 6 mm from the bottom. I went with the letters D and F to symbolize the completion of the digital fabrication minor! Additionally, I wanted a cut-out design; however, I understood that the more cutouts, the less weight the board could withstand especially with the cutouts in the middle. 
+
 ![Image of Skateboard Assembly](/assets/img/IMG_5122.jpg)
 
 
@@ -72,8 +74,6 @@ Lastly, I reduced the deck thickness to 15 mm. This resulted in 11.539 mm of max
 
 
 # CAD Model
-The CAD model was made using top-down modeling. The first inspiration was to utilize a flexible TPU middle piece in order to connect the handles and plier heads together. In order to increase the surface area between the different materials and interlock the components together I utilized a dovetail protrusion. After the first CAD model, upon printing the flexible center, I realized that the print both failed and that it would be too small to shoulder the force from flexing the pliers and it lacked enough flexibility. 
-
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6cd102e0ccc412aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
