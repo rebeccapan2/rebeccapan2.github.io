@@ -18,13 +18,14 @@ gallery:
 **CAD Model**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cb26a0b3b712e67?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 **Assembly Rendering**
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+![Image of Powder Bed Fusion Hanger](/assets/img/IMG_3563.jpg)
+
 
 ## ALSi10Mg generated solutions
 **CAD Model**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e16f21f9f6d237e92?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 **Assembly Rendering**
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+![Image of Aluminum Hanger Assembly Render](/assets/img/AluminumRender.png)
 
 ## Images of Printed Part
 ![Image of Powder Bed Fusion Hanger](/assets/img/IMG_3563.jpg)
