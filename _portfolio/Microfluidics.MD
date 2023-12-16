@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "VPP printed microfluidic device used to mix two fluids"
 header:
-  image: /assets/img/IMG_4515.jpg
-  teaser: /assets/img/IMG_4515.jpg
+  image: /assets/img/IMG_4515 (1).jpg
+  teaser: /assets/img/IMG_4515 (1).jpg
 gallery:
   - image_path: assets/img/IMG_5147.jpg
   - image_path: assets/img/IMG_4514.jpg
