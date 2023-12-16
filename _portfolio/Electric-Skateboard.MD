@@ -13,11 +13,21 @@ gallery:
 
 ---
 
-# Features
+# Generative Design Truck
+## Nylon 12 generated solutions
+**CAD Model**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+**Assembly Rendering**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-* **Heavy-duty:** The pliers are large and able to withstand larger forces. 
-* **Multi-material:** The pliers are made out of multiple materials for flexibility, functionality, and durability.
-* **Precision:** Easily controlled, and tested by picking up small resistors. 
+## ALSi10Mg generated solutions
+**CAD Model**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+**Assembly Rendering**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+[images]
+
 
 # Print-in-Place Manufacturing Background
 Print-in-place design allows the user to incorporate multiple different materials into a single, cohesive design. Assuming the use of compatible materials, the multi-material printer fuses the parts together. This method eliminates manual assembly post-printing, making it particularly appealing for rapid prototyping, manufacturing, and even in challenging applications where conventional assembly would be impractical or impossible. Compatible materials would be ones that have similar surface energies since they are more likely to spread and adhere together well. For example, two materials that are both polar will have better adherence together when printed on a multi-material printer. For the pliers, 95A TPU and PLA were used, which work well together. TPU also works well with ABS for designs that require both flexible and rigid components. PLA and ABS have also been printed together commercially. 
