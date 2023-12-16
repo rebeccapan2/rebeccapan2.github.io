@@ -5,9 +5,9 @@ header:
   image: /assets/img/IMG_4515.jpg
   teaser: /assets/img/IMG_4515.jpg
 gallery:
-  - image_path: assets/img/IMG-4514.jpg
-  - image_path: assets/img/IMG-5147.jpg
-  - image_path: assets/img/IMG-4516.jpg
+  - image_path: assets/img/IMG_5147.jpg
+  - image_path: assets/img/IMG_4514.jpg
+  - image_path: assets/img/IMG_4516.jpg
 
 ---
 
@@ -29,6 +29,7 @@ We also decided to incorporate a **picoliter-volume mixer design** with smaller 
 A 3D feature was designed to induce a more chaotic mixing effect. We chose to implement an **inclined mixer** as it causes the fluid flow to sway from side to side, increasing turbulent flow.
 
 ![Image of Inclined Mixer](/assets/img/wedgefeature.png)
+
 (Lee et al. 2011)
 
 <ins>Vat Photopolymerization Use</ins>
