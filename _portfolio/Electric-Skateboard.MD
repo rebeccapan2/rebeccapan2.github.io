@@ -3,7 +3,7 @@ title: "Electric Skateboard Assembly"
 excerpt: "Motor powered skateboard using generative design and large format 3D printing"
 header:
   image: /assets/img/IMG_5122.jpg
-  teaser: /assets/img/IMG_522.jpg
+  teaser: /assets/img/IMG_5122.jpg
 gallery:
   - image_path: assets/img/IMG-1922.jpg
   - image_path: assets/img/IMG-1923.jpg
