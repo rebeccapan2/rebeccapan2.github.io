@@ -29,9 +29,13 @@ We used VPP because of its high-resolution printing capabilities, which are need
 
 
 # Assembly Instructions
-Insert section 
+1. *Print and cure mold:* Design the microfluidic mixer you would like in CAD with the specified dimensions in order to line up with the glass slide and accommodate the microfluidic barb. Make sure channels are at least 4 mm from the edges so it doesn’t leak. Upload the .stl file to a VPP printer, making sure that the bottom of the mold (the face that is in contact with the glass slide) is perfectly flat/parallel to the build plate. Wash the mold for at least 50 minutes after printing and rinse with free isopropyl alcohol until the inside of the mold has a homogenous sheen. Any uncured resin will inhibit the crosslinking of PDMS. Confirm there is no debris on the mold. Leave supports on during the cure, and cure for 30 minutes at 60 degrees Celsius. 
+2. *Parylene coating:* Coat the cured mold with a thin layer of parylene to increase biocompatibility and resin interference in PDMS curing. 
+3. *Cast PDMS:* After the molds have been coated, mix and pour PDMS into the print and cure. Degassing in a vacuum chamber and curing in an oven are typically used when casting the PDMS. 
+4. *Plasma bond glass slide:* Plasma bond the PDMS microfluidic device to a glass slide and the microfluidic device is ready for use. 
+ 
 
-#Testing
+## Testing
 
 As seen in the video above, our microfluidic mixer did not work as expected. Anticipating a smaller amount of fluid, we designed our microchannels to be as small as possible, but they were too small to withstand the force of injecting the solution. Additionally, our 3D feature was not on the main channel so most fluid did not experience the desired turbulent effect. Tall and thin components are more likely to break during printing, so the aspect ratio we used was 3:1. With the smallest channel diameter in mind of 85 micrometers, this limited our channel height to 255 micrometers. Therefore our channels were even smaller in terms of volume and our 3D wedges were almost indistinguishable when printed. For future iterations, I would recommend scaling the channels up to be larger or using a smaller volumetric flow rate.
 
