@@ -2,8 +2,8 @@
 title: "Electric Skateboard Assembly"
 excerpt: "Motor powered skateboard using generative design and large format 3D printing"
 header:
-  image: /assets/img/IMG_5122.jpg
-  teaser: /assets/img/IMG_5122.jpg
+  image: /assets/img/IMG_5120.jpg
+  teaser: /assets/img/IMG_5120.jpg
 gallery:
   - image_path: assets/img/IMG-1922.jpg
   - image_path: assets/img/IMG-1923.jpg
@@ -18,7 +18,7 @@ gallery:
 **CAD Model**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cb26a0b3b712e67?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 **Assembly Rendering**
-![Image of Powder Bed Fusion Hanger](/assets/img/IMG_3563.jpg)
+![Image of Nylon Hanger Assembly Render](/assets/img/NylonRender.png)
 
 
 ## ALSi10Mg generated solutions
