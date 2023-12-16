@@ -7,7 +7,7 @@ header:
 gallery:
   - image_path: assets/img/IMG_4514.jpg
   - image_path: assets/img/IMG-4516.jpg
-  - image_path: /assets/img/IMG-5147.jpg
+  - image_path: assets/img/IMG-5147.jpg
 
 ---
 
@@ -27,7 +27,7 @@ A 3D feature was designed to induce a more chaotic mixing effect. We chose to im
 <ins>Vat Photopolymerization Use</ins>
 
 We used VPP because of its high-resolution printing capabilities, which are needed to produce a microfluidic device due to the small channel size. Despite the usefulness of smaller resolution, the resin can inhibit PDMS curing. This is a problem for our devices, which are made out of PDMS. When washing the resin-printed mold, checking for the glossy sheen that is indicative of uncured resin is pivotal as it will inhibit the crosslinking of PDMS. Below is an example of a failed casting where the PDMS did not fully cure. Additionally, resin has been found to leach toxic materials and result in complete cell death within 48 hours. To make the resin-printed mold more biocompatible, depositing a thin layer of parylene has been found useful. This alone has been found to extend cell culture life by approximately 3 weeks. 
-
+![Image of Failed Cure](/assets/img/IMG_4985.jpg)
 
 # Assembly Instructions
 1. *Print and cure mold:* Design the microfluidic mixer you would like in CAD with the specified dimensions in order to line up with the glass slide and accommodate the microfluidic barb. Make sure channels are at least 4 mm from the edges so it doesn’t leak. Upload the .stl file to a VPP printer, making sure that the bottom of the mold (the face that is in contact with the glass slide) is perfectly flat/parallel to the build plate. Wash the mold for at least 50 minutes after printing and rinse with free isopropyl alcohol until the inside of the mold has a homogenous sheen. Any uncured resin will inhibit the crosslinking of PDMS. Confirm there is no debris on the mold. Leave supports on during the cure, and cure for 30 minutes at 60 degrees Celsius. 
