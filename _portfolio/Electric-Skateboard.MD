@@ -4,12 +4,6 @@ excerpt: "Motor powered skateboard using generative design and large format 3D p
 header:
   image: /assets/img/IMG_5120.jpg
   teaser: /assets/img/IMG_5120.jpg
-gallery:
-  - image_path: assets/img/IMG-1922.jpg
-  - image_path: assets/img/IMG-1923.jpg
-  - image_path: assets/img/IMG-1924.jpg
-  - image_path: assets/img/IMG-1939.jpg
-  - image_path: /assets/img/IMG-1940.gif
 
 ---
 
@@ -72,5 +66,3 @@ Lastly, I reduced the deck thickness to 15 mm. This resulted in 11.539 mm of max
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6cd102e0ccc412aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
-{% include gallery caption="Electric Skateboard Assembly Gallery" %}
