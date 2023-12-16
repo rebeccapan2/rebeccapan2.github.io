@@ -23,6 +23,11 @@ We also decided to incorporate a **picoliter-volume mixer design** with smaller 
 
 A 3D feature was designed to induce a more chaotic mixing effect. We chose to implement an **inclined mixer** as it causes the fluid flow to sway from side to side, increasing turbulent flow.
 
+<ins>Vat Photopolymerization Use</ins>
+
+We used VPP because of its high-resolution printing capabilities, which are needed to produce a microfluidic device due to the small channel size. Despite the usefulness of smaller resolution, the resin can inhibit PDMS curing. This is a problem for our devices, which are made out of PDMS. When washing the resin-printed mold, checking for the glossy sheen that is indicative of uncured resin is pivotal as it will inhibit the crosslinking of PDMS. Below is an example of a failed casting where the PDMS did not fully cure. Additionally, resin has been found to leach toxic materials and result in complete cell death within 48 hours. To make the resin-printed mold more biocompatible, depositing a thin layer of parylene has been found useful. This alone has been found to extend cell culture life by approximately 3 weeks. 
+
+
 # Assembly Instructions
 Insert section 
 
