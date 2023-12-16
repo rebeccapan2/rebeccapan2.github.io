@@ -30,7 +30,7 @@ gallery:
 ## Images of Printed Part
 ![Image of Powder Bed Fusion Hanger](/assets/img/IMG_3563.jpg)
 ![Image of Powder Bed Fusion Hanger2](/assets/img/IMG_3562.jpg)
-*due to the lack of a pivot cup in the initial design, the hanger was unable to attach to the longboard correctly and the motor was stuck on another hanger*
+*Due to the lack of a pivot cup in the initial design, the hanger was unable to attach to the longboard correctly and the motor was stuck on another hanger*
 
 Assembly should follow the orientation of this commercial hanger:
 ![Image of Powder Bed Fusion Hanger](/assets/img/IMG_4568.jpg)
