@@ -48,6 +48,15 @@ For this project specifically, generative design was useful to create hanger sol
 
 # Large Format Skateboard Deck Design
 
+When deciding the thickness of the board, there were two main considerations. The first consideration was to minimize material; the second was to support a 200 lbs rider. A weight of 200 lbs roughly translates to a 900 Newton force across the board, with constraints on either side where it attaches to the hanger and wheels. Originally, with the design I chose, I made the deck 20 mm thick. Using the simulation tool in Autodesk Fusion 360, this thickness resulted in a maximum deflection of 5.619 mm. With a maximum of 12 mm of deflection, this was well within the safety parameters and meant I could reduce the thickness of the board to reduce unnecessary material. 
+![Image of 20mm deflection](/assets/img/20mmdeflection.png)
+
+I iteratively reduced the deck to 18 mm, which resulted in 7.846 mm of deflection. 
+![Image of 18mm deflection](/assets/img/18mmdeflection.png)
+
+Lastly, I reduced the deck thickness to 15 mm. This resulted in 11.539 mm of maximum deflection in the center of the board and was the thinnest I could make the board without crossing the 12 mm threshold. 
+![Image of 15mm deflection](/assets/img/15mmdeflection.png)
+
 ![Image of Skateboard Assembly](/assets/img/IMG_5122.jpg)
 
 
