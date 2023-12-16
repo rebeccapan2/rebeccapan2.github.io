@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Bike attachment that can hold a phone and attaches to 23-25 mm handlebars."
+excerpt: "VPP printed microfluidic device used to mix two fluids"
 header:
   image: /assets/img/IMG-1020.jpg
   teaser: /assets/img/IMG-1020.jpg
@@ -10,11 +10,9 @@ gallery:
 
 ---
 
-# Features
+<ins>Description</ins>
 
-* **Resistant:** The phone holder was printed with PLA. This material was chosen for its strength and is weather-resistant for up to a year. 
-* **Different phone orientations:** You are able to place your phone in the holder vertically or horizontally.
-* **Removable:** Clamps onto bike handlebars using screws, so it is removable and can be changed to different handlebars. 
+Microfluidic devices are an arrangement of microchannels that small amounts of fluids are usually injected into. The channels allow the movement of fluid throughout the device and usually end in an outlet channel where the product can be extracted. 
 
 # Assembly Instructions
 In order to assemble the part that attaches to the handlebars, place each curved side over the handlebars and line up the hole so that you can screw all four holes in. Screw the handlebar parts together as tightly as possible until it is securely attached and does not move when shaken. The use of a hex key may be necessary/helpful. 
