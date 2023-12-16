@@ -7,6 +7,7 @@ header:
 gallery:
   - image_path: assets/img/IMG_4514.jpg
   - image_path: assets/img/IMG-4516.jpg
+  - image_path: /assets/img/IMG-5147.jpg
 
 ---
 
