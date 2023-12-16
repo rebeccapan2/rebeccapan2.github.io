@@ -20,12 +20,15 @@ One common application of microfluidic devices is for thorough and rapid mixing 
 # Design Inspiration
 The device was designed to have at least one 2D and one 3D feature. Based on the literature, we wanted to integrate a **zigzag microchannel with a “Y” inlet junction** due to a high mixing index of 0.96. Researchers found that for low Reynolds number flows, the mixing efficiency increased to approximately 98% for the geometry ratio s/w = 4 as seen in the diagram below, then reduced slightly to below 90% when the geometry was further increased. Based on this finding, we created our channels with a s/w geometry of 4 where s=1.8 mm and w=0.45 mm. 
 ![Image of Zigzag Channel](/assets/img/zigzag.png)
+(Lee et al. 2011)
 
 We also decided to incorporate a **picoliter-volume mixer design** with smaller channels running parallel and splitting the zig-zags. Researchers have shown that this configuration enables complete mixing within a significantly shorter distance than the distance required to fully mix two streams in a conventional straight channel. Wanting to keep the parallel channels as small as possible we were limited by the printing method’s resolution of 0.085 millimeters. Past research found positive results from a 27:5 ratio, therefore we preserved this ratio with the new channel sizes.
-![Image of Picoliter-Volume Mixer](/assets/img/picolitermizer.png)
+![Image of Picoliter-Volume Mixer](/assets/img/picolitermixer.png)
+(Lee et al. 2011)
 
 A 3D feature was designed to induce a more chaotic mixing effect. We chose to implement an **inclined mixer** as it causes the fluid flow to sway from side to side, increasing turbulent flow.
 ![Image of Inclined Mixer](/assets/img/wedgefeature.png)
+(Lee et al. 2011)
 
 <ins>Vat Photopolymerization Use</ins>
 
@@ -42,6 +45,7 @@ We used VPP because of its high-resolution printing capabilities, which are need
 ## Testing
 [![Microfluidic Device Testing](/assets/img/IMG_4514.jpg)](https://youtube.com/shorts/Di2UXyNG6Aw) 
 <iframe width="315" height="560" src="https://youtube.com/embeded/Di2UXyNG6Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 As seen in the video above, our microfluidic mixer did not work as expected. Anticipating a smaller amount of fluid, we designed our microchannels to be as small as possible, but they were too small to withstand the force of injecting the solution. Additionally, our 3D feature was not on the main channel so most fluid did not experience the desired turbulent effect. Tall and thin components are more likely to break during printing, so the aspect ratio we used was 3:1. With the smallest channel diameter in mind of 85 micrometers, this limited our channel height to 255 micrometers. Therefore our channels were even smaller in terms of volume and our 3D wedges were almost indistinguishable when printed. For future iterations, I would recommend scaling the channels up to be larger or using a smaller volumetric flow rate.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eea03d13de859ed90?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
