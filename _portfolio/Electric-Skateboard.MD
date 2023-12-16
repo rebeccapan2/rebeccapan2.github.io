@@ -14,18 +14,23 @@ gallery:
 ---
 
 # Generative Design Truck
+**GENERATIVE DESIGN**
+Generative design is an extremely useful tool for engineers, especially when it comes to minimizing material usage while maintaining structural integrity. For this project, generative design was utilized to create a skateboard truck hanger from two different materials: Nylon 12 and a commonly printed aluminum metal alloy (ALSi10Mg). When designing the truck hanger, design specifications about the wheels, motors, pulleys, and more were provided and able to be used to generate obstruct and preserve geometries. Studies can then be added to the preserved geometries to constrain parts that do not move, and add structural loads/forces on parts that may experience weight, shear forces, torque, and more. Generative design allows engineers to create parts that minimize the amount of material necessary, while still meeting safety requirements and being able to support the designated forces. Additionally, generative design can create solutions with unorthodox geometries to avoid areas where there may be another object in an assembly or preserve geometries that must be interfacing with other parts. The ability to minimize material to only what is necessary for safety and supporting loads caters to sustainability by minimizing waste and environmental impact. With manufacturing considered a generally wasteful process, this is a step in the right direction to optimize resource utilization. One drawback to generative design is the high level of skill and patience required to make it work accurately. Generating a feasible or even correct design can require a lot of time and iterations. An understanding of the parts that must be preserved, the regions that cannot have material generated, and the structural loads and constraints that a part will experience requires a strong understanding of the part as well. 
+
 ## Nylon 12 generated solutions
 **CAD Model**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cb26a0b3b712e67?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 **Assembly Rendering**
 ![Image of Nylon Hanger Assembly Render](/assets/img/NylonRender.png)
 
-
 ## ALSi10Mg generated solutions
 **CAD Model**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e16f21f9f6d237e92?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 **Assembly Rendering**
 ![Image of Aluminum Hanger Assembly Render](/assets/img/AluminumRender.png)
+
+**POWDER BED FUSION**
+Powder bed fusion utilizes selective laser sintering to melt and fuse material powder together by layer, much like a VPP printer would cure resin by layer. This occurs when a layer of powder is spread over the build platform and a laser fuses the first cross-section of the model. A new layer of powder is spread across the previous layer with a roller, and the process is repeated until the entire model is created. This manufacturing method offers a lot of positives such as the ability to print complex geometries without support material due to the print volume being filled with powder, and reduced material waste because some of the powder can be recycled with new powder in various ratios. Despite these positives, powder bed fusion requires post-processing, which includes cleaning residual powder off of parts at the very least, expensive equipment, and has a limited build volume. 
 
 ## Images of Printed Part
 ![Image of Powder Bed Fusion Hanger](/assets/img/IMG_3563.jpg)
@@ -35,18 +40,16 @@ gallery:
 Assembly should follow the orientation of this commercial hanger:
 ![Image of Powder Bed Fusion Hanger](/assets/img/IMG_4568.jpg)
 
+**GENERATIVE DESIGN & POWDER BED FUSION & APPLICATION**
+When utilized together, these synergize to offer unmatched advanced manufacturing possibilities. Since generative design can produce complex geometries that would be difficult to consider by hand and without algorithmic optimization, it pairs well with additive manufacturing, specifically powder bed fusion. Powder bed fusion’s main benefit is the ability to print complex designs without support material, making it an ideal complement to generated designs. Their combined ability to achieve lightweight structures is especially pivotal in industries where weight reduction is necessary such as the aerospace and automotive industries. For example in the automotive industry, IGESTEK, an automotive supplier, uses Autodesk Fusion 360 to generate multiple solutions for parts based on parameters to optimize topology. For one suspension mount, they developed a multi-material design based on generative geometries and both metal and lighter composite materials to create a lighter package. Auto parts are sometimes required to support heavy weights and have many load-bearing requirements that make generative design favorable for creating multiple part iterations. Generative design also allows for easier design of custom parts, which can be important with such a wide array of auto parts. 
 
+**UTILITY FOR TRUCK HANGER DESIGN*** 
+For this project specifically, generative design was useful to create hanger solutions that avoided specific elements on the skateboard, while also preserving required parts such as the pivot cup and a part for the kingpin and bushings to go around. I created obstacle geometries specifically for the rod that connects the wheels, the wheels, the pulleys for the motor, the kingpin, the TPU bushings, and the pivot cup holder. We had to design a motor mount for one of the hangers as well, which extended from the hanger. This added torque to the hanger design and could not be too close to the bed or the ground, which would be especially difficult to account for if designing with artificial intelligence. The geometry of the hanger is also extremely irregular and printing it on a large scale on a more traditional filament printer would generate impractical amounts of support material.
+
+# Large Format Skateboard Deck Design
 
 ![Image of Skateboard Assembly](/assets/img/IMG_5122.jpg)
 
-# Print-in-Place Manufacturing Background
-Print-in-place design allows the user to incorporate multiple different materials into a single, cohesive design. Assuming the use of compatible materials, the multi-material printer fuses the parts together. This method eliminates manual assembly post-printing, making it particularly appealing for rapid prototyping, manufacturing, and even in challenging applications where conventional assembly would be impractical or impossible. Compatible materials would be ones that have similar surface energies since they are more likely to spread and adhere together well. For example, two materials that are both polar will have better adherence together when printed on a multi-material printer. For the pliers, 95A TPU and PLA were used, which work well together. TPU also works well with ABS for designs that require both flexible and rigid components. PLA and ABS have also been printed together commercially. 
-
-# Applications in Robotics
-One of the primary applications for print-in-place parts is in the field of robotics. Complex articulated structures like robotic arms, grippers, and wheels can be printed as a single piece, saving time and reducing the risk of misalignment. These parts are also extremely prevalent and useful in the medical industry, where intricate mechanisms for prosthetic limbs, surgical tools, and patient-specific implants can be printed with precision, ease, and reduced time. An example can be found [here](https://ieeexplore.ieee.org/abstract/document/9068247).
-
-# Applications in Transportation
-Print-in-place parts have also made inroads in aerospace and automotive sectors. Innovative engineers are using this technology to design intricate and lightweight components for aircraft and automobiles, enhancing fuel efficiency and reducing overall weight. In the consumer electronics realm, these parts facilitate the creation of compact, complex designs for gadgets, improving functionality and aesthetics. [Here](https://www.techbriefs.com/component/content/article/tb/stories/blog/35871) is an article about ways that NASA is utilizing FFF, multi-material additive manufacturing included as well!
 
 # Parts to be built
 
@@ -58,23 +61,11 @@ Print-in-place parts have also made inroads in aerospace and automotive sectors.
 | Right Plier Prong  | 1  | 
 | Flexible Center Piece   | 1  | 
 
-# Additional Specifications and Settings
-## Printing Settings
-The TPU used could not exceed 220 degrees Celsius so the bed temperature was set at 210 degrees Celsius maximum. The print was done using a 0.6 mm nozzle and the Voron 3D printer. 
-## Design Specifications
-The distance between the noses of the pliers is 6 mm, therefore it can only extend up to 6 mm. Since it is a larger set of pliers, it is able to pick up larger items, and even heavier items, but requires significantly more force to close the jaws. The hollow middle of the plier's legs allows for two handle sizes.
 
 # CAD Model
 The CAD model was made using top-down modeling. The first inspiration was to utilize a flexible TPU middle piece in order to connect the handles and plier heads together. In order to increase the surface area between the different materials and interlock the components together I utilized a dovetail protrusion. After the first CAD model, upon printing the flexible center, I realized that the print both failed and that it would be too small to shoulder the force from flexing the pliers and it lacked enough flexibility. 
-![Failed center image](/assets/img/IMG-1924.jpg)
-After this realization, I pursued two different avenues. The first design was to modify the same design with the flexible center but to make the centerpieces larger. I wanted to design it large enough that the TPU and PLA parts had large amounts of surface area to fuse together if printed on a multi-material printer or to stay together if printed separately and pressed. On the second iteration of the flexible center, it was far too rigid and did not bend. I adjusted the center part to have more open space especially in the center and upon printing, the final flexible center worked. Despite not being able to print on the dual extrusion printer, having separate components allows for interchangeable plier noses and handle sizes and designs in order to leverage the most useful and comfortable orientation. 
-![second center iteration image](/assets/img/IMG-1923.jpg)
-![Plier demonstation](/assets/img/IMG_1940.gif)
 
-The other design considered was a three-component design with a pin or screw where the plier parts intersect, and an angled, flexible insert to go between the handles and keep them separate unless flexed by an external force such as the user’s hand. 
-![second iteration image](/assets/img/IMG-1939.jpg)
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9917c3152dfdc28b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6cd102e0ccc412aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-{% include gallery caption="Multimaterial Pliers Gallery" %}
+{% include gallery caption="Electric Skateboard Assembly Gallery" %}
