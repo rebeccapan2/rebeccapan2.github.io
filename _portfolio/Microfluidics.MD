@@ -11,6 +11,7 @@ gallery:
 ---
 
 <ins>Description</ins>
+
 Microfluidic devices are an arrangement of microchannels that small amounts of fluids are usually injected into. The channels allow the movement of fluid throughout the device and end in an outlet channel where the product can be extracted. These devices are commonly used in analytical chemistry with techniques such as chromatography and electrophoresis. The convenience of use to detect interactions between chemical solutions and biological compounds makes it a practical and easy tool. Additionally, microfluidic devices are common for biomedical purposes such as point-of-care diagnostics and rapid medical testing. They allow for detecting biomarkers, pathogens, and other compounds found in the blood with only a small sample. 
 
 One common application of microfluidic devices is for thorough and rapid mixing of samples on a microscale level. This is typically done in microfluidic devices by increasing the diffusion effects. Sample mixing can be done in either a passive method, which relies only on increased contact area and contact time to mix, or an active method which involves applying external forces such as magnetic fields, heat, or acoustic forces. Microfluidic mixers are integral for DNA and protein analysis ensuring that all of the necessary interactions occur. Additionally, they are useful in the formulation of pharmaceuticals for a homogenous mixture of all ingredients. 
