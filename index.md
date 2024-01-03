@@ -18,6 +18,14 @@ feature_row:
     alt: "syringe pump"
     title: "Syringe Pump"
     excerpt: "Syringe pump to dispense liquid at pre-set rate"
+  - image_path: assets/img/IMG-0452.jpg
+    alt: "electric skateboard"
+    title: "Electric Skateboard"
+    excerpt: "Electric Skateboard Assembly"
+  - image_path: assets/img/IMG-0452.jpg
+    alt: "microfluidics"
+    title: "Microfluidic Device"
+    excerpt: "Microfluidic device to mix two fluids"
 ---
 
 {% include feature_row %}
