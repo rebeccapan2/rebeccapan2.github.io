@@ -6,7 +6,7 @@ title: "About Rebecca Pan"
 
 ## Education
 
-Rebecca is currently in her senior year at Vanderbilt University pursuing a major in biomedical engineering with minors in chemistry and digital fabrication. She is on the pre-medical track and is interested in exploring the intersection of engineering and medicine.  
+Rebecca is currently in her senior year at Vanderbilt University pursuing a major in biomedical engineering with minors in chemistry and digital fabrication. She is interested in exploring the intersection of engineering and medicine.  
 
 * Vanderbilt University
   * Expected Graduation May 2024
