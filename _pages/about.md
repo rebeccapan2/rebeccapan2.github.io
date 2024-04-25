@@ -15,7 +15,7 @@ Rebecca is currently in her senior year at Vanderbilt University pursuing a majo
 
 ## Work Experience
 
-Rebecca has had a variety of work experiences including research and industry internships. she spent multiple summers in high school and college as an undergraduate researcher. During her sophomore year, she worked part-time at a medical device analysis start-up, Greenlight Medical Company, and the summer following she worked at a full-time summer internship at a pharmaceutical company, Pfizer. 
+Rebecca has had a variety of work experiences including research and industry internships. She spent multiple summers in high school and college as an undergraduate researcher. During her sophomore year, she worked part-time at a medical device analysis start-up, Greenlight Medical Company, and the summer following she worked at a full-time summer internship at Pfizer, Inc. 
 
 ## Technical Skills
 
@@ -38,5 +38,4 @@ Rebecca is skilled across several fields including engineering and wet lab. Rebe
 Publications:
 * [POSTER] Rebecca Pan, Regan Meredith and Anthony S. Serianni, Isolation of Sialyl Glycopeptide from Commercial Hen Egg Yolk Powder, the 15th Midwest Carbohydrate & Glycobiology Symposium, Notre Dame, IN, September 20-21, 2019. 
 
-Awards:
-* Dean's List
+
