@@ -51,18 +51,14 @@ These components have been combined in a structurally sturdy 1/2" acrylic box th
 
 # Fabrication and Testing
 **Transmit Dipole:**
-
+![Image of dipole prototype](/assets/img/dipole_photobooth.jpg)
 Figure 1. Physical prototype of completed dipole
-
+![Image of transmit CAD](/assets/img/dipole_CAD.png)
 Figure 2. CAD model of completed transmit dipole
-
+![Image of dipole tuning results](/assets/img/dipole_testing.png)
 Figure 3. Tuning the dipole to modulate at 298 MHZ
 
 **Receive Coils:**
-
-
-
-
 
 
 
