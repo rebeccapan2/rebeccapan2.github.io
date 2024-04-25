@@ -52,13 +52,19 @@ These components have been combined in a structurally sturdy 1/2" acrylic box th
 # Fabrication and Testing
 **Transmit Dipole:**
 ![Image of dipole prototype](/assets/img/dipole_photobooth.jpg)
-Figure 1. Physical prototype of completed dipole
+Figure 1. Fabricated prototype of completed dipole
 ![Image of transmit CAD](/assets/img/dipole_CAD.png)
 Figure 2. CAD model of completed transmit dipole
 ![Image of dipole tuning results](/assets/img/dipole_testing.png)
 Figure 3. Tuning the dipole to modulate at 298 MHZ
 
 **Receive Coils:**
+![Image of receive coil circuitry](/assets/img/receive_circuit.png)
+Figure 4. Receive circuit. 1: Resonant loop receives signal at 298 MHz. 2:  Tuning and matching capacitors set frequency and impedance. 3: Passive detuning circuitry. 4: Preamplifier decoupling​
+![Image of receive coil CAD](/assets/img/receive_CAD.png)
+Figure 5. CAD model of a completed receive coil
+![Image of fabricated receive coil](/assets/img/receive_photobooth.png)
+Figure 5. Fabricated prototype of a completed receive coil
 
 
 
