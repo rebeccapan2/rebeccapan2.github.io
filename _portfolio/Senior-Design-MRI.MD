@@ -71,7 +71,7 @@ Figure 7. Tuning and matching the receive coils to all resonate at 298 MHZ
 Figure 8. Optimizing overlap distance for maximum decoupling
 
 Our final prototype is a fully functional RF coil that could be used for abdominal imaging in a 7T MRI. We implemented a modular design consisting of up to eight blocks. Each of the eight blocks is a fully functional MR coil. By allowing anywhere between one and eight blocks to be used at a time for imaging, we expanded the potential applications of our coil to multiple anatomies. For example, all eight boxes could be used for abdominal imaging or only two boxes for wrist imaging. The boxes themselves are made out of acrylic that is half an inch thick to ensure that they are strong enough to bear the weight of a patient. This thickness increased the weight of the boxes. To limit the weight, we decreased the size of the box as much as possible. 
-![Image of receive coil overlap](/assets/img/receive_overlap.png)
+![Image of receive coil overlap](/assets/img/complete_box.png)
 Figure 9. One assembled block containing 4 receive coils and 1 transmit dipole
 
 {% include gallery caption="7T MRI Body Coil Images" %}
