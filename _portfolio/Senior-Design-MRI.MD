@@ -2,11 +2,11 @@
 title: "Body Coil for 7T MRI"
 excerpt: "A radiofrequency coil that can be used in a 7T MRI to image the body, specifically the liver and prostate."
 header:
-  image: /assets/img/IMG-1020.jpg
-  teaser: /assets/img/IMG-1020.jpg
+  image: /assets/img/overhead.jpg
+  teaser: /assets/img/overhead.jpg
 gallery:
-  - image_path: assets/img/IMG-1020.jpg
-  - image_path: assets/img/IMG-1281.jpg
+  - image_path: assets/img/overhead.jpg
+  - image_path: assets/img/phantom_testing.jpg
 
 ---
 
