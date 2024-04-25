@@ -7,6 +7,7 @@ header:
 gallery:
   - image_path: assets/img/overhead.jpg
   - image_path: assets/img/phantom_testing.jpg
+  - image_path: assets/img/dipole_photobooth.jpg
 
 ---
 
