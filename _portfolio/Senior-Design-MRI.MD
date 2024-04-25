@@ -62,12 +62,16 @@ Figure 3. Tuning the dipole to modulate at 298 MHZ
 ![Image of receive coil circuitry](/assets/img/receive_circuit.png)
 Figure 4. Receive circuit. 1: Resonant loop receives signal at 298 MHz. 2:  Tuning and matching capacitors set frequency and impedance. 3: Passive detuning circuitry. 4: Preamplifier decoupling​
 ![Image of receive coil CAD](/assets/img/receive_CAD.png)
+
 Figure 5. CAD model of a completed receive coil
 ![Image of fabricated receive coil](/assets/img/receive_photobooth.png)
+
 Figure 6. Fabricated prototype of a completed receive coil
 ![Image of receive coil tuning and matching](/assets/img/receive_tuning_matching.png)
+
 Figure 7. Tuning and matching the receive coils to all resonate at 298 MHZ
-![Image of receive coil overlap](/assets/img/receive_decoupling.png)
+![Image of receive coil overlap](/assets/img/receive_overlap.png)
+
 Figure 8. Optimizing overlap distance for maximum decoupling
 
 
