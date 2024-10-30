@@ -36,6 +36,7 @@ Rebecca is skilled across several fields including engineering and wet lab. Rebe
 ## Press 
 
 Publications:
-* [POSTER] Rebecca Pan, Regan Meredith and Anthony S. Serianni, Isolation of Sialyl Glycopeptide from Commercial Hen Egg Yolk Powder, the 15th Midwest Carbohydrate & Glycobiology Symposium, Notre Dame, IN, September 20-21, 2019. 
+* [POSTER] Rebecca Pan, Regan Meredith and Anthony S. Serianni, Isolation of Sialyl Glycopeptide from Commercial Hen Egg Yolk Powder, the 15th Midwest Carbohydrate & Glycobiology Symposium, Notre Dame, IN, September 20-21, 2019.
+* [ABSTRACT] Russel H. Dinh MD, Howard Zhang, Rebecca Pan, Shravi Lam, Xiangyu Ji MS, Margaret  Comer, Farozan Noori, Sean Berkowitz MD, Mohsin H. Ali MD, Qingxia Chen PhD, Yuankai  K. Tao PhD, Avni P. Finn MD, The Impact of Volumetric Optical Coherence Tomography Analysis on Visual and Surgical  Outcomes in Macular Hole Surgery, The Retina Society’s 57th Annual Scientific Meeting, Lisbon, Portugal, September 11-15, 2024
 
 
